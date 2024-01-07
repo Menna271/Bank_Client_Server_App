@@ -1,0 +1,226 @@
+{
+    "Admins": [
+        {
+            "Password": 123,
+            "Username": "Admin1"
+        },
+        {
+            "Password": 456,
+            "Username": "Admin2"
+        }
+    ],
+    "StandardUsers": [
+        {
+            "Accountnumber": "123456",
+            "Age": 23,
+            "Balance": 4700,
+            "Fullname": "Menna Nagy",
+            "Password": 1234,
+            "Username": "menna"
+        },
+        {
+            "Accountnumber": "654321",
+            "Age": 35,
+            "Balance": 10200,
+            "Fullname": "Amr Hazem",
+            "Password": 7654,
+            "Username": "amr"
+        },
+        {
+            "Accountnumber": "187986",
+            "Age": 28,
+            "Balance": 1200,
+            "Fullname": "Karim Mohamed",
+            "Password": 9090,
+            "Username": "karim"
+        },
+        {
+            "Accountnumber": "678123",
+            "Age": 30,
+            "Balance": 600,
+            "Fullname": "Tara Ahmed",
+            "Password": 4589,
+            "Username": "tara"
+        },
+        {
+            "Accountnumber": "923753",
+            "Age": 31,
+            "Balance": 6000,
+            "Fullname": "Merna Amin",
+            "Password": 5432,
+            "Username": "merna"
+        },
+        {
+            "Accountnumber": "921520",
+            "Age": 33,
+            "Balance": 3000,
+            "Fullname": "Zeinab Hassan",
+            "Password": 8900,
+            "Username": "zeinab"
+        },
+        {
+            "Accountnumber": "929940",
+            "Age": 22,
+            "Balance": 5600,
+            "Fullname": "Menna Ahmed",
+            "Password": 6789,
+            "Username": "menna_22"
+        }
+    ],
+    "Transactions": [
+        {
+            "Accountnumber": "123456",
+            "History": [
+                {
+                    "Amount": 500,
+                    "Date": "2024-01-07"
+                },
+                {
+                    "Amount": -600,
+                    "Date": "2024-01-06"
+                },
+                {
+                    "Amount": -100,
+                    "Date": "2024-01-06"
+                },
+                {
+                    "Amount": 500,
+                    "Date": "2024-01-06"
+                },
+                {
+                    "Amount": 300,
+                    "Date": "2024-01-06"
+                },
+                {
+                    "Amount": -200,
+                    "Date": "2024-01-06"
+                },
+                {
+                    "Amount": -100,
+                    "Date": "2024-01-06"
+                },
+                {
+                    "Amount": -200,
+                    "Date": "2024-01-06"
+                },
+                {
+                    "Amount": -300,
+                    "Date": "2024-01-06"
+                },
+                {
+                    "Amount": 700,
+                    "Date": "2024-01-06"
+                },
+                {
+                    "Amount": -500,
+                    "Date": "2024-01-06"
+                },
+                {
+                    "Amount": -500,
+                    "Date": "2024-01-01"
+                },
+                {
+                    "Amount": 200,
+                    "Date": "2024-01-01"
+                },
+                {
+                    "Amount": 100,
+                    "Date": "2023-09-02"
+                },
+                {
+                    "Amount": -500,
+                    "Date": "2023-08-27"
+                }
+            ]
+        },
+        {
+            "Accountnumber": "654321",
+            "History": [
+                {
+                    "Amount": 200,
+                    "Date": "2024-01-06"
+                },
+                {
+                    "Amount": 2000,
+                    "Date": "2023-10-05"
+                },
+                {
+                    "Amount": 400,
+                    "Date": "2023-10-04"
+                }
+            ]
+        },
+        {
+            "Accountnumber": "187986",
+            "History": [
+                {
+                    "Amount": 400,
+                    "Date": "2024-01-06"
+                },
+                {
+                    "Amount": 200,
+                    "Date": "2024-01-06"
+                },
+                {
+                    "Amount": 100,
+                    "Date": "2024-01-06"
+                },
+                {
+                    "Amount": -1000,
+                    "Date": "2023-12-15"
+                },
+                {
+                    "Amount": -700,
+                    "Date": "2023-11-12"
+                },
+                {
+                    "Amount": -150,
+                    "Date": "2023-10-10"
+                }
+            ]
+        },
+        {
+            "Accountnumber": "678123",
+            "History": [
+                {
+                    "Amount": 200,
+                    "Date": "2023-12-30"
+                }
+            ]
+        },
+        {
+            "Accountnumber": "923753",
+            "History": [
+                {
+                    "Amount": -400,
+                    "Date": "2024-01-06"
+                },
+                {
+                    "Amount": 100,
+                    "Date": "2024-01-06"
+                },
+                {
+                    "Amount": 1500,
+                    "Date": "2024-01-06"
+                },
+                {
+                    "Amount": 800,
+                    "Date": "2024-01-06"
+                }
+            ]
+        },
+        {
+            "Accountnumber": "921520",
+            "History": null
+        },
+        {
+            "Accountnumber": "929940",
+            "History": [
+                {
+                    "Amount": 600,
+                    "Date": "2024-01-06"
+                }
+            ]
+        }
+    ]
+}
